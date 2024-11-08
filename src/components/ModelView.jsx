@@ -3,7 +3,7 @@ import Lights from "./Lights"
 import { Suspense } from "react"
 // import IPhone from './IPhone'
 import * as THREE from 'three'
-import IPhone from "./Iphone"
+import IPhone from "./IPhone"
 import Loader from "./Loader"
 
 
